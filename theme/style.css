@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+h1 a { color : inherit !important }
+h2 a { color : inherit !important }
+h3 a { color : inherit !important }
+h4 a { color : inherit !important }
+h5 a { color : inherit !important }
+h6 a { color : inherit !important }
